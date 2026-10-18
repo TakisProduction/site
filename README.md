@@ -1,2 +1,1 @@
-# Site
-Site of Takis Production
+# Site of Takis Production.
